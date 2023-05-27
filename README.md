@@ -1,2 +1,2 @@
 # StaticCv
-StaticCv
+Basit CV web sitesi
